@@ -310,6 +310,14 @@ justify-content: space-between;
     top: -30px;
     right: -150px;
 } 
+@media (max-width:968px){
+    .about-content .image::before{
+        height: 0px;
+        width: 0px;
+        position: absolute;
+        border: 0px;
+    }
+}
 .about-content .paragrph{
     line-height: 40px;
 }
