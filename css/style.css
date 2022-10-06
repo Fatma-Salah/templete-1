@@ -289,14 +289,9 @@ right: -40px;
    
     background-color: white;
 }
-@media(max-width:768px){
-    .Portfolio-card {
-   width: calc(100% - 40px );
-    }
-}
+
 .Portfolio-card p,h3{
 padding:0px 22px;
-/* margin: 0; */
 }
 .Portfolio-cards .Portfolio-card img{
     width: 100%;
