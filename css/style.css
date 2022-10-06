@@ -203,6 +203,7 @@ font-size: 60px;
 }
 @media(max-width:768px){
 .special{
+margin: 1.8rem;
     font-size: 60px;
 }
 .special +p{
