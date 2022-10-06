@@ -183,12 +183,7 @@ font-size: 60px;
     -ms-transform: scale(1.1);
     -o-transform: scale(1.1);
 }
-@media(max-width:768px){
-    .feature .cards .card{
-  width: calc(100% - 36px);
-   
-        }
-}
+
 /* end feature  */
 /* start services  */
 .services{
